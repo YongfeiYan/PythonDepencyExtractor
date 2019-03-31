@@ -8,7 +8,7 @@ Usage:
 ```bash
 # Put extract_packages.py and packages-dependency.sh in root directory of your project and run
 bash packages-dependency.sh
-# Use the introductions in packages-dependency.sh If needed.
+# Use the introductions in packages-dependency.sh if needed.
 ```
 
 
