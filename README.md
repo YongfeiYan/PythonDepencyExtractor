@@ -1,5 +1,5 @@
-# PythonDepencyExtractor
-Automatically extract library versions in your python project via pip.
+# PythonDependencyExtractor
+Automatically extract library versions in your python project files via pip.
 
 
 
